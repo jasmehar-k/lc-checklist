@@ -3,7 +3,7 @@
 
 ## Warm-up (build the aggregate + filter reflex)
 - [x] 706. Design HashMap
-- [ ] 1603. Design Parking System
+- [x] 1603. Design Parking System
 - [ ] 860. Lemonade Change
 - [ ] 2073. Time Needed to Buy Tickets
 

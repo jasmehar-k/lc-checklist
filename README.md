@@ -4,12 +4,12 @@
 ## Warm-up (build the aggregate + filter reflex)
 - [x] 706. Design HashMap
 - [x] 1603. Design Parking System
-- [ ] 860. Lemonade Change
-- [ ] 2073. Time Needed to Buy Tickets
+- [x] 860. Lemonade Change
+- [x] 2073. Time Needed to Buy Tickets
 
 ## Core — closest to your actual interviews (do these early)
-- [ ] 1656. Design an Ordered Stream
-- [ ] 1348. Tweet Counts Per Frequency
+- [x] 1656. Design an Ordered Stream
+- [x] 1348. Tweet Counts Per Frequency
 - [ ] 2043. Simple Bank System
 - [ ] 981. Time Based Key-Value Store
 - [ ] 1396. Design Underground System

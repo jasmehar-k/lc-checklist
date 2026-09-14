@@ -10,12 +10,12 @@
 ## Core — closest to your actual interviews (do these early)
 - [x] 1656. Design an Ordered Stream
 - [x] 1348. Tweet Counts Per Frequency
-- [ ] 2043. Simple Bank System
-- [ ] 981. Time Based Key-Value Store
-- [ ] 1396. Design Underground System
-- [ ] 636. Exclusive Time of Functions
-- [ ] 2034. Stock Price Fluctuation
-- [ ] 1801. Number of Orders in the Backlog
+- [x] 2043. Simple Bank System
+- [x] 981. Time Based Key-Value Store
+- [x] 1396. Design Underground System
+- [x] 636. Exclusive Time of Functions
+- [x] 2034. Stock Price Fluctuation
+- [x] 1801. Number of Orders in the Backlog
 
 ## Event stream processing
 - [ ] 933. Number of Recent Calls
